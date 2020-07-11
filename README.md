@@ -11,7 +11,9 @@
 
 ### Meu nome é Leonardo Vargas, apaixonado pelo desenvolvimento web e mobile!
 
+- :round_pushpin: Natural de Chapecó-SC.
 - 🎓 Bacharel em Ciência da Computação.
+- :chart_with_upwards_trend: Minha Equação: :coffee:  +  :musical_note:  +  :pizza:  =  💻  =  :purple_heart:
 - 🚀 Tecnologias: Node.js, ReactJS e React Native.
 - :books: Melhorando as skills em Gastby, TypeScript e Flexbox.
 
