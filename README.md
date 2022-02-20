@@ -1,6 +1,6 @@
 # Olá meus jovens 👋
 
-<img align="right" src=".github/image.png" width="500"/> 
+<img align="right" src=".github/image.png" width="300"/> 
 
 Me chamo Leonardo Vargas, tenho 25 anos, moro em Chapecó-SC, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor **Frontend Pleno** na Sólides
 
