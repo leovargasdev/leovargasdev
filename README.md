@@ -29,4 +29,4 @@ Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando En
 
 
 
-![⚯ Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2&show_icons=true&theme=2077&show_owner=true)
+![⚯ Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2&show_icons=true&theme=tokyonight&show_owner=true)
