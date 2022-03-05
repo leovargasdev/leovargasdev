@@ -1,35 +1,29 @@
-# Olá meus jovens 👋
+# Olá galerinha. 👋
 
-<img align="right" src=".github/image.png" width="300"/> 
+<img align="right" src=".github/python.png" width="300"/> 
 
-Me chamo Leonardo Vargas, tenho 25 anos, moro em Chapecó-SC, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor **Frontend Pleno** na Sólides.
+Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando Engenharia de Software e atualmente sou desenvolvedor **Backend Junior** na Samplemed.
 
-Comecei recentemente um canal na [Twitch.tv](https://www.twitch.tv/leovargasdev) onde faço _livecoding_ de projetos/desafios web's, com o objetivo de ajudar a desenvolver novos programadores e programadoras.
 
-[![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/fNgjj2mU)](https://discord.gg/fNgjj2mU)
-### ✨ Curiosidades
+### <h2 align="center">✨ Curiosidades ✨</h2>
 
-- Sou fã de Harry Potter e MCU.
-- Gosto de fazer trilhas e correr.
-- Até o momento sei cuidar de "Prantas".
-- As vezes faço trocadilhos / piadas ruins.
-- Comida preferida: Pudim e pão com manteiga na chapa.
+- Sou fã de Harry Potter ⚯ e jogos de MMORPG ⚔️.
+- Gosto de assistir series📺 e pegar uma praia🏖️.
+- Até o momento sei cozinhar (muito bem por sinal)🍴.
+- As vezes faço trocadilhos / piadas ruins e sem graça!.
+- Comida preferida: Pizza🍕 e churrasco🍖.
 
-## 📋 Skills
+## <h2 align="center">📋 Skills 📋</h2>
 
-[![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=plastic)]()
-[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic)]()
-[![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic)]()
+[![Python](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&style=plastic)](https://www.python.org/)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📫 Contatos
+## <h2 align="center">📧 Contatos 📧</h2>
 
-[![Twitch Badge](https://img.shields.io/badge/@leovargasdev-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/leovargasdev)](https://twitch.com/leovargasdev)
-[![Twitter Badge](https://img.shields.io/badge/@leovargasdev-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/leovargasdev)](https://twitter.com/leovargasdev)
-[![Instagram Badge](https://img.shields.io/badge/@leuvargas-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/leuvargas)](https://instagram.com/leuvargas)
-[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Vargas-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/leonardo-luis-de-vargas/) 
-[![Personal Site Badge](https://img.shields.io/badge/dev.to-2D425E?style=flat&logo=devdotto&logoColor=white)](https://www.leonardovargas.dev/) 
+[![Instagram Badge](https://img.shields.io/badge/@leuvargas-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/marllondjofficial)](https://instagram.com/marllondjofficial)
+[![Linkedin Badge](https://img.shields.io/badge/Marlon%Martins-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-martins-56bb17211/)](https://www.linkedin.com/in/marlon-martins-56bb17211/)  
 
-![leovargasdev github stats](https://github-readme-stats.vercel.app/api?username=leovargasdev&hide=[%22issues%22]&show_icons=true)
+[![Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2)](https://github.com/marlonmartins2/github-readme-stats)
