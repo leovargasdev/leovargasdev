@@ -24,6 +24,7 @@ Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando En
 ## <h2 align="center">📧 Contatos 📧</h2>
 
 [![Instagram Badge](https://img.shields.io/badge/@marllondjofficial-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/marllondjofficial)](https://instagram.com/marllondjofficial)
-[![Linkedin Badge](https://img.shields.io/badge/Marlon%Martins-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-martins-56bb17211/)](https://www.linkedin.com/in/marlon-martins-56bb17211/)  
+
+[![Linkedin Badge](https://img.shields.io/badge/Marlon%20Martins-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-martins-56bb17211/)](https://www.linkedin.com/in/marlon-martins-56bb17211/) 
 
 [![Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2)](https://github.com/marlonmartins2/github-readme-stats)
