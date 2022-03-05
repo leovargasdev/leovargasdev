@@ -1,11 +1,11 @@
-# <h2 align="center">Olá galerinha. 👋</h2>
+## <h2 align="center">Olá galerinha. 👋</h2>
 
 <img align="right" src=".github/djn.png" width="300"/> 
 
 Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando Engenharia de Software e atualmente sou desenvolvedor **Backend Junior** na Samplemed.
 
 
-### <h2 align="center">✨ Curiosidades ✨</h2>
+## <h2 align="center">✨ Curiosidades ✨</h2>
 
 - Sou fã de Harry Potter ⚯ e jogos de MMORPG ⚔️.
 - Gosto de assistir series📺 e pegar uma praia🏖️.
