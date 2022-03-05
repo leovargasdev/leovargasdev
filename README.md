@@ -1,4 +1,4 @@
-## <h2 align="center">Olá galerinha. 👋</h2>
+# <h2 align="center">Olá galerinha. 👋</h2>
 
 <img align="right" src=".github/djn.png" width="300"/> 
 
