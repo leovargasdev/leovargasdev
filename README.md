@@ -6,7 +6,7 @@ Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando En
 
 ## ✨ Curiosidades ✨
 
-- Sou fã de Harry Potter ⚯ e jogos de MMORPG ⚔️.
+- Sou fã de jogos de MMORPG ⚔️.
 - Gosto de assistir series📺 e pegar uma praia🏖️.
 - Sei cozinhar (muito bem por sinal.)🍴.
 - As vezes faço trocadilhos / piadas ruins e sem graça!.
