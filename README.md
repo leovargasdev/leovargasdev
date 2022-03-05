@@ -1,6 +1,6 @@
 # Olá galerinha. 👋
 
-<img align="right" src=".github/python.png" width="300"/> 
+<img align="right" src=".github/djn.png" width="300"/> 
 
 Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando Engenharia de Software e atualmente sou desenvolvedor **Backend Junior** na Samplemed.
 
