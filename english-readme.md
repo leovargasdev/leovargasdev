@@ -29,6 +29,6 @@ My name is Marlon Martins, I'm 24 years old, I live in Santa Cruz - RJ, I'm stud
 
 
 
-![⚯ Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2&show_icons=true&theme=tokyonight&show_owner=true)
+![⚯ Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2&show_icons=true&theme=tokyonight&show_owner=true)<br>
 
 ![Here](https://github.com/marlonmartins2/marlonmartins2#readme) you can find the "readme" in portuguese braizilian.
