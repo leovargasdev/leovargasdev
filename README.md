@@ -6,11 +6,11 @@ Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando En
 
 ## ✨ Curiosidades ✨
 
-- Sou fã de jogos de MMORPG ⚔️.
-- Gosto de assistir series📺 e pegar uma praia🏖️.
-- Sei cozinhar (muito bem por sinal.)🍴.
-- As vezes faço trocadilhos / piadas ruins e sem graça!.
-- Comida preferida: Pizza🍕 e churrasco🍖.
+- Sou fã de jogos de MMORPG. ⚔️
+- Gosto de assistir series📺 e pegar uma praia. 🏖️
+- Sei cozinhar (muito bem por sinal). 🍴
+- As vezes faço trocadilhos/piadas ruins e sem graça!
+- Comida preferida: Pizza e churrasco. 🍕 🍖
 
 
 ## 📋 Skills 📋
@@ -29,4 +29,6 @@ Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando En
 
 
 
-![⚯ Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2&show_icons=true&theme=tokyonight&show_owner=true)
+![⚯ Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2&show_icons=true&theme=tokyonight&show_owner=true)<br>
+
+[Aqui](https://github.com/marlonmartins2/marlonmartins2/blob/master/english-readme.md) você pode encontrar o "readme" em inglês americano.
