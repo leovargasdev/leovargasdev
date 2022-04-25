@@ -6,7 +6,7 @@ Me chamo Leonardo Vargas, tenho 25 anos, moro em Chapecó-SC, sou bacharel em Ci
 
 Comecei recentemente um canal na [Twitch.tv](https://www.twitch.tv/leovargasdev) onde faço _livecoding_ de projetos/desafios web's, com o objetivo de ajudar a desenvolver novos programadores e programadoras.
 
-[![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/fNgjj2mU)](https://discord.gg/fNgjj2mU)
+[![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/JPS2bY6GVy)](https://discord.gg/JPS2bY6GVy)
 ### ✨ Curiosidades
 
 - Sou fã de Harry Potter e MCU.
